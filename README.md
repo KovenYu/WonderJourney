@@ -13,6 +13,12 @@
 
 
 
+https://github.com/KovenYu/WonderJourney/assets/27218043/43c864b5-2416-4177-ae39-347150968bc3
+
+https://github.com/KovenYu/WonderJourney/assets/27218043/70eb220d-2521-4033-b736-cf88755a3bcb
+
+
+
 > #### [WonderJourney: Going from Anywhere to Everywhere](https://arxiv.org/abs/2312.03884)
 > ##### [Hong-Xing "Koven" Yu](https://kovenyu.com/), [Haoyi Duan](https://haoyi-duan.github.io/), [Junhwa Hur](https://hurjunhwa.github.io/), [Kyle Sargent](https://kylesargent.github.io/), [Michael Rubinstein](https://people.csail.mit.edu/mrub/), [William T. Freeman](https://billf.mit.edu/), [Forrester Cole](https://people.csail.mit.edu/fcole/), [Deqing Sun](https://deqings.github.io/), [Noah Snavely](https://www.cs.cornell.edu/~snavely/), [Jiajun Wu](https://jiajunwu.com/), [Charles Herrmann](https://scholar.google.com/citations?user=LQvi5XAAAAAJ&hl=en)
 
