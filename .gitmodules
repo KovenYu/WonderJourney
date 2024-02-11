@@ -1,0 +1,3 @@
+[submodule "midas_module"]
+	path = midas_module
+	url = https://github.com/isl-org/MiDaS.git

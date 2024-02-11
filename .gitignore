@@ -1,0 +1,13 @@
+/.idea
+*output*/
+__pycache__
+config/exp*
+scripts/
+*slurm*
+tmp
+notebooks
+.vscode
+older*/
+*.pt
+environment.yml
+*zip*
