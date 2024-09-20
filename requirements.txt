@@ -5,7 +5,8 @@ scikit-image
 diffusers
 transformers
 accelerate
-timm
+timm==0.6.12 
+pillow==9.2.0
 einops
 omegaconf
 av
