@@ -199,7 +199,7 @@ def run(config):
                     if not regenerate:
                         break
                     if regen_id == config['regenerate_times'] -1:
-                        print("Regenerating faild after {} times".format(config['regenerate_times']))
+                        print("Regenerating failed after {} times".format(config['regenerate_times']))
                         if gpt_border:
                             print("Use crop to solve border problem!")
                             config['inpainting_resolution_gen'] = 560
